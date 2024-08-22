@@ -5,7 +5,7 @@ Teleafya is a Telemedicine web solution that aims to revolutionize healthcare de
 ## How to Contribute.
 
 1. Clone the repository
-   git clone https://github.com/Victortimbwa/teleafya.git
+   git clone https://github.com/ronaldkinyuru/drf-teleafya.git
 
 2. Install node modules.
    npm install
