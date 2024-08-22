@@ -1,7 +1,0 @@
-[run]
-source=authentication/,teleafya/,
-omit=
-    venv
-    */migrations/*
-    */tests/*
-    */__init__.py
